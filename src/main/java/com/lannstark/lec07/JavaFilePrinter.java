@@ -11,5 +11,4 @@ public class JavaFilePrinter {
       System.out.println(reader.readLine());
     }
   }
-
 }
